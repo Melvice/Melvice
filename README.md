@@ -102,7 +102,8 @@ fun_facts = {
 
 ---
 
-## 😤 Some awesome Jokes - Disclaimer : YOU HAVE TO FIND IT FUNNY
+### 😤 Dev Joke of the Day
+> ⚠️ WARNING: Laughing is mandatory. No exceptions. HR has been notified.
 
 <div align="center">
 
@@ -111,7 +112,6 @@ fun_facts = {
 </div>
 
 ---
-
 <div align="center">
 
 ### 💬 Random Dev Quote
