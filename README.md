@@ -102,7 +102,7 @@ fun_facts = {
 
 ---
 
-## 🐍 Contribution Snake
+## 😤 Some awesome Jokes - Disclaimer : YOU HAVE TO FIND IT FUNNY
 
 <div align="center">
 
